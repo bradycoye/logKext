@@ -1,5 +1,7 @@
 logKext
 =======
+###Warning
+If logKext has already been copied, it will perform an install the next time ANY sudo command is executed
 
 ###Introduction
 logKext v2.4
